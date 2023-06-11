@@ -1,0 +1,10 @@
+Fisheye camera model
+https://docs.opencv.org/3.4/db/d58/group__calib3d__fisheye.html
+Camera Calibration
+https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html
+Camera Calibration and 3D Reconstruction
+https://docs.opencv.org/4.x/d9/d0c/group__calib3d.html#gga9007b81edae8e7ead89219b316c109fba9e296b20df217b62e581c56ad9359db5
+Calibrate fisheye lens using OpenCV — part 1
+https://medium.com/@kennethjiang/calibrate-fisheye-lens-using-opencv-333b05afa0b0
+Calibrate fisheye lens using OpenCV — part 2
+https://medium.com/@kennethjiang/calibrate-fisheye-lens-using-opencv-part-2-13990f1b157f
