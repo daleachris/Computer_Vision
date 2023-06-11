@@ -16,7 +16,7 @@ while success:
   print('Read a new frame #:',count, 'successfull?: ', success)
   count += 1
 
-# %% Extract Frames of Video: videoHD1.avi
+# %% Extract Frames of Video: videoWW1_calibration.avi
 vidcap = cv2.VideoCapture('videoWW1_calibration.avi')
 success,image = vidcap.read()
 count = 0
